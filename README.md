@@ -414,7 +414,7 @@ If this project helped you, please consider:
 
 <div align="center">
 
-**Made with ❤️ by [Your Name](https://github.com/nirmalhimansha)**
+**Made with ❤️ by [Nirmal Himansha](https://github.com/nirmalhimansha)**
 
 If you found this project helpful, please consider giving it a ⭐!
 
